@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "73131728921",
+    "firebase_url": "https://nmjfcm.firebaseio.com",
+    "project_id": "nmjfcm",
+    "storage_bucket": "nmjfcm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73131728921:android:643fa1431e60af13",
+        "android_client_info": {
+          "package_name": "com.nmj.push.pushtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73131728921-86i98holk2da2t0h6cello50c5i4tpm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxkch04WKYYLaHG3zQczUKsqQljjr8h38"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
